@@ -558,11 +558,8 @@ docker_container_status
 http://192.168.1.87:8888
 ```
 
-Место для скриншота:
+<img width="3071" height="1111" alt="image" src="https://github.com/user-attachments/assets/289cdcd0-78a1-474f-9192-0c20e9d01a60" />
 
-```text
-![Chronograf web interface](<img width="3071" height="1111" alt="image" src="https://github.com/user-attachments/assets/289cdcd0-78a1-474f-9192-0c20e9d01a60" />)
-```
 
 ---
 
@@ -578,20 +575,13 @@ GROUP BY time(:interval:), "host"
 FILL(null)
 ```
 
-Место для скриншота:
-
-```text
-![CPU usage_system graph](<img width="3071" height="1091" alt="image" src="https://github.com/user-attachments/assets/c279af70-6711-4025-8c08-854a5db0b3bd" />)
-```
-
+<img width="3071" height="1091" alt="image" src="https://github.com/user-attachments/assets/c279af70-6711-4025-8c08-854a5db0b3bd" />
 ---
 
 ### Скриншот 3. Список Docker measurements
 
-```text
-![Docker measurements](<img width="2890" height="1676" alt="image" src="https://github.com/user-attachments/assets/12c0a132-da85-4c90-bb64-a813becdacec" />
-)
-```
+
+<img width="2890" height="1676" alt="image" src="https://github.com/user-attachments/assets/12c0a132-da85-4c90-bb64-a813becdacec" />
 
 ---
 
