@@ -1,0 +1,23 @@
+# Runtime data
+tick-stack/chronograf/data/
+tick-stack/influxdb/data/
+tick-stack/kapacitor/data/
+
+# Backups
+*.bak
+*.bak.*
+*.backup
+*.old
+
+# Logs
+*.log
+logs/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Docker runtime
+*.pid
