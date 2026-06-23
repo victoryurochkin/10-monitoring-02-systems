@@ -546,6 +546,8 @@ docker_container_net
 docker_container_status
 ```
 
+<img width="2545" height="1124" alt="image" src="https://github.com/user-attachments/assets/29a65be0-93b4-43bc-8e39-32c6541d111e" />
+
 ---
 
 ## 10. Скриншоты
@@ -579,6 +581,9 @@ FILL(null)
 ---
 
 ### Скриншот 3. Список Docker measurements
+
+
+<img width="2545" height="1124" alt="image" src="https://github.com/user-attachments/assets/84641c05-57d9-475f-90a1-7b9652d8bb3d" />
 
 
 <img width="2890" height="1676" alt="image" src="https://github.com/user-attachments/assets/12c0a132-da85-4c90-bb64-a813becdacec" />
